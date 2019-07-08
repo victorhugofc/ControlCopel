@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ControlCopel</string>
+    <string name="title_activity_">Activity</string>
+    <string name="title_activity_inicial">InicialActivity</string>
 </resources>
